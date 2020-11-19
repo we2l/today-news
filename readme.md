@@ -33,3 +33,20 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - Mysql
+
+---
+
+## 📦 Como baixar o Projeto
+
+
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/we2l/today-news
+
+    # Entrar no diretório
+    $ cd noticias
+
+```
+---
+Desenvolvido por Weslley Araujo 
