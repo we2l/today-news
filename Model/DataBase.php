@@ -8,7 +8,7 @@ class Database
     public static function getConnection()
     {
         if(empty(self::$conn)) {
-            self::$conn = new PDO("mysql:dbname=noticias; host=localhost", 'root', 'computadorpc123');
+            self::$conn = new PDO("mysql:dbname=noticias; host=localhost", 'root', '******');
             self::$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
         }
         return self::$conn;
